@@ -14,7 +14,7 @@ import traceback
 import random
 import request
 from discord.utils import find
-import requests as rq
+
 
 
 
