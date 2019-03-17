@@ -35,7 +35,7 @@ async def on_ready():
     	await asyncio.sleep(10)
     	await bot.change_presence(game=discord.Game(name=str(len(set(bot.get_all_members())))+ ' Pessoas que Não Fazem Silencio 🔇!', type=3))
     	await asyncio.sleep(20)
-    	await bot.change_presence(game=discord.Game(name='Parabéns [𝑮𝒉𝒐𝒖𝒍] [̲̅S̲̅α̲̅и̲̅s̲̅]#4183, Namorado Da Barbie! 🎉'))
+    	await bot.change_presence(game=discord.Game(name='Feliz Aniversário Mestre @! [P] u d i i m [и๏†] ★, Ta Ficando Velhinho.'))
     	await asyncio.sleep(10)
 
 
